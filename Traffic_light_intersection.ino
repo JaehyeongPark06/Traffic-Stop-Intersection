@@ -1,3 +1,6 @@
+// C++
+// numbers represent the pin on the breadboard
+//
 void setup()
 {
   pinMode(13, OUTPUT);
